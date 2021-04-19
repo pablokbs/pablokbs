@@ -12,7 +12,7 @@ My name is Pablo, I'm from Argentina and I'm a SRE.
 * AWS, Terraform, Docker, all the cloud stuff :) 
 * Critical thinking, decision-making and problem solving skills
 * Some Python coding
-* Special skills and experience in fast growking startups.
+* Special skills and experience in fast growing startups.
 
 ## Contact
 
