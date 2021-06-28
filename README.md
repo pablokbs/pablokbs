@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Pablo, I'm from Argentina and I'm a SRE.
+My name is Pablo, I'm from Argentina and I'm an SRE.
 
 * Currently working for [@splitio](https://github.com/splitio) as a Staff SRE
 * I have a [YouTube channel](https://youtube.com/peladonerd) (in Spanish) about SRE technologies like Docker and Kubernetes.
