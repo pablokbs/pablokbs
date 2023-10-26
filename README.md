@@ -4,7 +4,7 @@ My name is Pablo, I'm from Argentina and I'm an SRE.
 
 * Currently working for [@splitio](https://github.com/splitio) as a Staff SRE
 * I have a [YouTube channel](https://youtube.com/peladonerd) (in Spanish) about SRE technologies like Docker and Kubernetes.
-* I offer consulting hours, you can find a slot [here](https://peladonerd.as.me)
+* I offer consulting hours, you can find a slot [here](https://peladonerd.com/shop/146c899d-3690-443b-9587-e65d81f6f3fe)
 
 ## Skills
 
